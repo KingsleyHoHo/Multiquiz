@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="question_1">Which is the capital of United States?</string>
+    <string name="question_2">Which is the capital of Canada?</string>
+    <string name="question_3">Which is the capital of Vietnam?</string>
+    <string name="question_4">Which is the capital of Thailand?</string>
+    <string name="answer_0_question_1">Washington DC</string>
+    <string name="answer_1_question_1">New York</string>
+    <string name="answer_2_question_1">California</string>
+    <string name="answer_3_question_1">Florida</string>
+    <string name="answer_0_question_2">Toronto</string>
+    <string name="answer_1_question_2">Ottawa</string>
+    <string name="answer_2_question_2">Vancouver</string>
+    <string name="answer_3_question_2">Calgary</string>
+    <string name="answer_0_question_3">Hanoi</string>
+    <string name="answer_1_question_3">Danang</string>
+    <string name="answer_2_question_3">Saigon</string>
+    <string name="answer_3_question_3">Hue</string>
+    <string name="answer_0_question_4">Phuket</string>
+    <string name="answer_1_question_4">Chiang Mai</string>
+    <string name="answer_2_question_4">Pattaya</string>
+    <string name="answer_3_question_4">Bangkok</string>
+    <string name="hint_button">Hint</string>
+    <string name="submit_button">Submit</string>
+    <string name="score_header">Quiz Score</string>
+    <string name="score">\?</string>
+    <string name="reset_button">Reset Quiz</string>
+</resources>
